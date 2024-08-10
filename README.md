@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @edumudijyothi
+# Hi, I’m @edumudijyothi
 
 ## I’m interested in
 - Convolutional Neural Networks (CNNs) and their applications
