@@ -22,4 +22,4 @@
 - She/Her
 
 ## ⚡ Fun fact
-- I love combining my technical skills with my passion for aquaculture to create impactful solutions!
+- I love combining my technical skills with my passion  to create impactful solutions!
