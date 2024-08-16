@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @edumudijyothi
 
 ## I’m interested in
-- Convolutional Neural Networks (CNNs) and their applications
 - Machine Learning and Artificial Intelligence
 - Software Development and Object-Oriented Programming
 
@@ -17,7 +16,7 @@
 
 ## 📫 How to reach me
 - Email: jyothiedumudi@gmail880@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/jyothi-edumudi-b20942285)
+- LinkedIn: (https://www.linkedin.com/in/jyothi-edumudi)
 
 ## 😄 Pronouns
 - She/Her
