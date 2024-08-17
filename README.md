@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @edumudijyothi
-
-## I’m interested in
+# 👋 Hi, I’m @Jyothi Edumudi
+## I’m Passionate
+- programming in python,Java
+- Web Development in Html,css,Javascript
 - Machine Learning and Artificial Intelligence
-- Software Development and Object-Oriented Programming
 
 ##  I’m currently learning
 - Advanced Machine Learning techniques
@@ -15,11 +15,9 @@
 - Any innovative ideas in AI and machine learning
 
 ## 📫 How to reach me
-- Email: jyothiedumudi@gmail880@gmail.com
+- Email: jyothiedumudi880@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/jyothi-edumudi)
 
-## 😄 Pronouns
-- She/Her
 
 ## ⚡ Fun fact
-- I love combining my technical skills with my passion  to create impactful solutions!
+- I'm a curious learner and love exploring new technologies in my free time! 
