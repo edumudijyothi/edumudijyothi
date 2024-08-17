@@ -5,14 +5,8 @@
 - Machine Learning and Artificial Intelligence
 
 ##  I’m currently learning
-- Advanced Machine Learning techniques
-- Deep Learning with ResNet-50 models
-- Real-time data processing and analysis
-- Enhancing my Java programming skills
-
-##  I’m looking to collaborate on
-- Developing efficient machine learning models for real-time applications
-- Any innovative ideas in AI and machine learning
+- I'm excited to learn my new skills to real-world projects and make a meaningful impact!
+- Enhancing my Java,Python programming skills
 
 ## 📫 How to reach me
 - Email: jyothiedumudi880@gmail.com
