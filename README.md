@@ -1,12 +1,10 @@
 # 👋 Hi, I’m @Jyothi Edumudi
-## I’m Passionate
-- programming in python,Java
-- Web Development in Html,css,Javascript
-- Machine Learning and Artificial Intelligence
+## I’m Passionate Computer Science graduate with hands-on experience in building real-world AI and software solutions. Skilled in Python, Java, Flask, Spring Boot, and working with LLMs and RAG pipelines for Generative AI applications. Developed a CNN-based fish disease detection system and a cloud-integrated blood donor platform, improving user engagement by 40%.
+🔧 Tech Stack: Python · Java · REST APIs · LangChain · TensorFlow · MySQL · Docker · AWS · Git
+🚀 Interested in roles like Generative AI Engineer or Software Engineer where I can contribute to meaningful, scalable products.
+🤝 Let’s connect if you're hiring or building something exciting in AI or software development!
 
-##  I’m currently learning
-- I'm excited to learn my new skills to real-world projects and make a meaningful impact!
-- Enhancing my Java,Python programming skills
+
 
 ## 📫 How to reach me
 - Email: jyothiedumudi880@gmail.com
